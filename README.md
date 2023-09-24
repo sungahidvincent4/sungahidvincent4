@@ -1,3 +1,9 @@
+
+
+
+
+
+
 //Jes Vincent A. Sungahid BSIT 2A 
 import java.util.Scanner;
 public class Temp{
